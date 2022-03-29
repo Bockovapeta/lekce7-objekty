@@ -26,9 +26,9 @@ let znacka = auto.znacka;
 let spz = auto.spz;
 
 
-
-
-
+document.querySelector('#majitelka').innerHTML = majitelka;
+document.querySelector('#znacka').innerHTML = znacka;
+document.querySelector('#spz').innerHTML = spz;
 
 
 
