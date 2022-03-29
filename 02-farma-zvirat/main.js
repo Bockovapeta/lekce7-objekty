@@ -25,6 +25,9 @@ let poleZvirat = [
 // 1. Zacneme vytvorenim obalujiciho div element s tridou 'zvire'.
 
 //let zvire =
+
+// přidáme cyklus pro index v poli
+
 for (let i = 0; i < poleZvirat.length; i++) {
     let zvire = document.createElement('div');
 
